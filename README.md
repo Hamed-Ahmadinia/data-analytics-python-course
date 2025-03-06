@@ -33,13 +33,13 @@ This course covers a wide range of topics, including:
 
 Throughout the course, we will work with real-world datasets, including:
 
-- **Adult Income Dataset** – Demographic data for income classification
-- **Global Bike Sales Dataset** – Time-series sales data
-- **Medical Examination Dataset** – Health data analysis
-- **Forum Pageviews Dataset** – Website traffic analytics
-- **Sea Level Rise Dataset** – Environmental data tracking
-- **World Happiness Report Dataset (2024)** – Happiness index analysis
-- **Cryptocurrency Historical Price Dataset (2015-2025)**
+- **[Adult Income Dataset](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/adult_income.csv)**: Demographic data for income classification.
+- **[Global Bike Sales Dataset](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/global_bike_sales.csv)**: Time-series sales data.
+- **[Medical Examination Dataset](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/medical_examination.csv)**: Health examination data.
+- **[Forum Pageviews Dataset](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/forum_pageviews.csv)**: Forum traffic analytics.
+- **[Sea Level Rise Dataset](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/sea_level_rise.csv)**: Environmental data tracking sea level changes.
+- **[World Happiness Report Dataset (2024 - Yearly Updated)](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/world_happiness_2024.csv)**: Global happiness index data.
+- **[Cryptocurrency Historical Price Dataset (2015-2025)](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/crypto_prices.csv)**.
 
 ---
 
@@ -112,10 +112,3 @@ To deepen your understanding, you can explore:
 📙 **How to Use Jupyter Notebook: A Beginner’s Tutorial**  
 
 ---
-
-## 🚀 Get Ready!
-
-Before the course starts, please:
-- Review **basic Python concepts** if needed.
-- Create a **GitHub account** if you haven’t already.
-- Install **Anaconda & Jupyter Notebook**.
