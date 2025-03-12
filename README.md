@@ -18,8 +18,8 @@ Welcome to the **Data Analytics & Statistics in Python** course! This course is 
 
 This course covers a wide range of topics, including:
 
-✔ **[Introduction to Data Analytics](https://github.com/Hamed-Ahmadinia/data-analytics-python-course/tree/main/Week%201)** – Key concepts & applications  
-✔ **[Python for Data Analysis](https://github.com/Hamed-Ahmadinia/data-analytics-python-course/tree/main/Week%202)** – Using Pandas, NumPy, Matplotlib, and Seaborn  
+✔ **Introduction to Data Analytics** – Key concepts & applications  
+✔ **Python for Data Analysis** – Using Pandas, NumPy, Matplotlib, and Seaborn  
 ✔ **Descriptive & Inferential Statistics** – Data distributions & hypothesis testing  
 ✔ **Data Visualization** – Creating impactful visualizations  
 ✔ **Time Series & Trend Analysis** – Identifying patterns & forecasting  
