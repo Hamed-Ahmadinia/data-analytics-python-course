@@ -112,3 +112,4 @@ To deepen your understanding, you can explore:
 📙 **How to Use Jupyter Notebook: A Beginner’s Tutorial**  
 
 ---
+© 2025 Hamed Ahmadinia /  CC BY-NC 4.0
