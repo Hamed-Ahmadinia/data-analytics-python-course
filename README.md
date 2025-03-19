@@ -36,7 +36,7 @@ Throughout the course, we will work with real-world datasets, including:
 - **[Adult Income Dataset](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/adult_income.csv)**: Demographic data for income classification.
 - **[Global Bike Sales Dataset](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/global_bike_sales.csv)**: Time-series sales data.
 - **[Medical Examination Dataset](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/medical_examination.csv)**: Health examination data.
-- **[Forum Pageviews Dataset](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/forum_pageviews.csv)**: Forum traffic analytics.
+- **[Forum Pageviews Dataset](https://raw.githubusercontent.com/Hamed-Ahmadinia/DASP-2025/refs/heads/main/fcc-forum-pageviews.csv)**: Forum traffic analytics.
 - **[Sea Level Rise Dataset](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/sea_level_rise.csv)**: Environmental data tracking sea level changes.
 - **[World Happiness Report Dataset (2024 - Yearly Updated)](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/world_happiness_2024.csv)**: Global happiness index data.
 - **[Cryptocurrency Historical Price Dataset (2015-2025)](https://github.com/Hamed-Ahmadinia/DASP-2025/tree/main/datasets/crypto_prices.csv)**.
