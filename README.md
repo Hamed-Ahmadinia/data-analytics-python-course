@@ -98,7 +98,7 @@ A user-friendly, cloud-based environment (previously CSC Notebooks) for coding a
 - **80-89** = Grade 4
 - **70-79** = Grade 3
 - **60-69** = Grade 2
-- **0-59** = Grade 1
+- **41-59** = Grade 1
 
 ---
 
