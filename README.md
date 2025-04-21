@@ -1,5 +1,7 @@
 # Data Analytics & Statistics in Python
 
+[![DOI](https://zenodo.org/badge/944119282.svg)](https://doi.org/10.5281/zenodo.15254795)
+
 Welcome to the **Data Analytics & Statistics in Python** course! This course is offered as part of my teacher training at **Häme University of Applied Sciences (HAMK)** and is taught at **Metropolia University of Applied Sciences**. The course is designed to equip you with essential skills to analyze, interpret, and visualize data using Python. Whether you're a student, researcher, or professional, this course will enhance your data-driven decision-making abilities through hands-on experience with real-world datasets.
 
 ## 📌 Course Information
